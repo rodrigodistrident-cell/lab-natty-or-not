@@ -1,51 +1,103 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
+Café e Tecnologia ☕💻
 
-## 🚀 Introdução
+Uma música gerada por Inteligência Artificial sobre café, tecnologia e a vida de quem programa!
 
-> Woooow! Look at this 👀
+Preview unavailable
 
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
+📒 Descrição
 
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
+Uma canção em ritmo de funk que mistura a rotina de estudos de tecnologia com a paixão por café.
 
-### Objetivos
+🤖 Tecnologias Utilizadas
+IA usada para a letra - ChatGPT : Criação e estruturação da letra da música.
+Suno AI: Geração dos vocais, melodia e instrumentos musicais.
+Bing Image Creator : Criação da arte da capa do single.
+🧐 Processo de Criação
+Composição: Gerei a letra focando na rotina de codificar acompanhado de café.
+Produção Musical: Inseri a letra no Suno AI no estilo funk.
+Identidade Visual: Criei o prompt no Bing Image Creator para gerar uma xícara de café com temática futurista/tecnológica para a capa.
+🚀 Resultados
+🔗 Ouça a música: (https://suno.com/s/y7U7xwK1PNBdxui4)
+📜 Letra:
 
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
+# CAFÉ COM TECNOLOGIA 🎵
 
-### Template
+**[INTRO – Voz falada]**
 
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+Alô, alô, pode preparar!
+O café tá passando e a tecnologia vai conectar!
+É café na xícara, inovação na mente...
+DJ, solta o grave que hoje é diferente!
 
-## 📒 Descrição
-Breve descrição do seu projeto
+**[VERSO 1]**
 
-## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Acordei de manhã, já liguei o computador,
+Uma dose de café pra ativar o processador.
+A inteligência artificial já tá trabalhando,
+Enquanto eu tomo meu café, o futuro tá chegando!
 
-## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Wi-Fi conectado, sistema atualizado,
+Com um gole de café, tá tudo sincronizado.
+Do escritório pra quebrada, todo mundo conectado,
+É tecnologia avançando e o café tá garantido!
 
-## 🚀 Resultados
-Apresente os resultados do seu projeto
+**[PRÉ-REFRÃO]**
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+Dá um gole, dá um clique,
+Aumenta essa conexão!
+Café quente na xícara,
+Tecnologia na mão!
 
-### Exemplos e Insigths
+**[REFRÃO – GRUDENTO]**
 
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
+É café, café, café com tecnologia!
+Bota o grave pra bater, que hoje é só alegria!
+É café, café, café com inovação!
+Um pé no futuro e o outro no batidão!
 
-## Links Interessantes
+Café com tecnologia!
+Café com tecnologia!
+A inteligência tá na mente,
+E o grave contagia!
 
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
+**[VERSO 2]**
 
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+Tem robô trabalhando, tem sistema inteligente,
+Tem máquina fazendo tudo, facilitando a vida da gente.
+Se a bateria tá fraca, toma café pra carregar,
+Com energia e inovação, ninguém vai nos parar!
+
+A IA tá criando, o algoritmo tá no comando,
+E a galera no passinho, todo mundo acompanhando.
+Dois cliques na tela, uma ideia genial,
+Café e tecnologia, combinação sensacional!
+
+**[PONTE – Quebra de batida]**
+
+Segura o café!
+Segura a conexão!
+Prepara o processador!
+Que vai começar o pancadão!
+
+**[REFRÃO FINAL – Grave pesado]**
+
+É café, café, café com tecnologia!
+Bota o grave pra bater, que hoje é só alegria!
+É café, café, café com inovação!
+Um pé no futuro e o outro no batidão!
+
+Café com tecnologia!
+Café com tecnologia!
+Se tem café e inteligência,
+Tem futuro todo dia!
+
+**[OUTRO – Voz falada]**
+
+Pode atualizar o sistema!
+Pode preparar mais um café!
+Porque o futuro não espera...
+E a gente tá conectado!
+
+💭 Reflexão
+
+O resultado ficou "Natty" (parece natural, feito por humanos)? Ou se ficou evidente o uso da IA.?
